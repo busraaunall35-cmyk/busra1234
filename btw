@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Benim Sitem</title>
+</head>
+
+<body style="text-align:center; font-family:Arial;">
+
+    <h1>Benim Siteme Hoş Geldin!</h1>
+
+    <p>Bu benim ilk web sitem.</p>
+
+    <button onclick="alert('Merhaba!')">
+        Bana Tıkla
+    </button>
+
+</body>
+</html>
